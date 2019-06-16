@@ -1,0 +1,968 @@
+Test Run on Legitimate Folder
+
+dictionary_size_spam 32482
+dictionary_size_leg 11828
+
+1 dataset\test\legitimate\5-1298msg1.txt
+Without Smoothing - spam: 0.08020210124030527, legitimate: 0.08910829616604188, class: legitimate
+With Smoothing    - spam: 0.08208829207468123, legitimate: 0.09393697119804517, class: legitimate
+
+2 dataset\test\legitimate\5-1298msg2.txt
+Without Smoothing - spam: 0.06189128591881503, legitimate: 0.1306176297782071, class: legitimate
+With Smoothing    - spam: 0.06333322802145605, legitimate: 0.13252880296138106, class: legitimate
+
+3 dataset\test\legitimate\5-1298msg3.txt
+Without Smoothing - spam: 0.09028902713192859, legitimate: 0.10282135825168612, class: legitimate
+With Smoothing    - spam: 0.09124242959902214, legitimate: 0.10503935654561022, class: legitimate
+
+4 dataset\test\legitimate\5-1300msg1.txt
+Without Smoothing - spam: 0.005249540940545839, legitimate: 0.020445045492267853, class: legitimate
+With Smoothing    - spam: 0.005738771963265008, legitimate: 0.021334926133632044, class: legitimate
+
+5 dataset\test\legitimate\5-1300msg2.txt
+Without Smoothing - spam: 0.21623086606182024, legitimate: 0.17753949684851578, class: spam
+With Smoothing    - spam: 0.22092707906921188, legitimate: 0.1913244919017408, class: spam
+
+6 dataset\test\legitimate\5-1300msg3.txt
+Without Smoothing - spam: 0.08641540514258049, legitimate: 0.11967655968753703, class: legitimate
+With Smoothing    - spam: 0.08865495202319554, legitimate: 0.12477060915199656, class: legitimate
+
+7 dataset\test\legitimate\5-1301msg1.txt
+Without Smoothing - spam: 0.1420630586214407, legitimate: 0.21477298372634127, class: legitimate
+With Smoothing    - spam: 0.14831603309547828, legitimate: 0.22953112906589548, class: legitimate
+
+8 dataset\test\legitimate\5-1302msg1.txt
+Without Smoothing - spam: 0.09406076460961468, legitimate: 0.14150853843702219, class: legitimate
+With Smoothing    - spam: 0.09613151053552473, legitimate: 0.14572462247466286, class: legitimate
+
+9 dataset\test\legitimate\5-1303msg1.txt
+Without Smoothing - spam: 0.06410061628634826, legitimate: 0.1399657505342286, class: legitimate
+With Smoothing    - spam: 0.06548802004818863, legitimate: 0.14152345808018685, class: legitimate
+
+10 dataset\test\legitimate\5-1303msg2.txt
+Without Smoothing - spam: 0.14559841873106885, legitimate: 0.1599155348526045, class: legitimate
+With Smoothing    - spam: 0.148184972677019, legitimate: 0.1664757476393289, class: legitimate
+
+11 dataset\test\legitimate\5-1303msg3.txt
+Without Smoothing - spam: 0.055365943872914075, legitimate: 0.07048618405462431, class: legitimate
+With Smoothing    - spam: 0.05593159496024322, legitimate: 0.07158028277233541, class: legitimate
+
+12 dataset\test\legitimate\5-1304msg1.txt
+Without Smoothing - spam: 0.12385733902593536, legitimate: 0.2321359454791203, class: legitimate
+With Smoothing    - spam: 0.1294199980739445, legitimate: 0.24401308285662018, class: legitimate
+
+13 dataset\test\legitimate\5-1307msg1.txt
+Without Smoothing - spam: 0.062185681514045556, legitimate: 0.08555990153571622, class: legitimate
+With Smoothing    - spam: 0.06289299396258631, legitimate: 0.08679614129426108, class: legitimate
+
+14 dataset\test\legitimate\5-1307msg2.txt
+Without Smoothing - spam: 0.02441352133489317, legitimate: 0.057575245180926604, class: legitimate
+With Smoothing    - spam: 0.02506700779727096, legitimate: 0.05838397109541795, class: legitimate
+
+15 dataset\test\legitimate\5-1307msg3.txt
+Without Smoothing - spam: 0.056506123414353425, legitimate: 0.042441663854775505, class: spam
+With Smoothing    - spam: 0.05648262922601542, legitimate: 0.04278211322697822, class: spam
+
+16 dataset\test\legitimate\5-1311msg1.txt
+Without Smoothing - spam: 0.042700572624838375, legitimate: 0.056815396743470754, class: legitimate
+With Smoothing    - spam: 0.04328095098527468, legitimate: 0.05796179682225559, class: legitimate
+
+17 dataset\test\legitimate\5-1311msg2.txt
+Without Smoothing - spam: 0.03743672695008954, legitimate: 0.041376347237673, class: legitimate
+With Smoothing    - spam: 0.03801230911300558, legitimate: 0.04276095859327282, class: legitimate
+
+18 dataset\test\legitimate\5-1311msg3.txt
+Without Smoothing - spam: 0.04329893370293335, legitimate: 0.1454378113896864, class: legitimate
+With Smoothing    - spam: 0.044786757118128614, legitimate: 0.14650988971952797, class: legitimate
+
+19 dataset\test\legitimate\5-1312msg1.txt
+Without Smoothing - spam: 0.05843136166773752, legitimate: 0.06068013405850468, class: legitimate
+With Smoothing    - spam: 0.06067182255952627, legitimate: 0.06665576512897774, class: legitimate
+
+20 dataset\test\legitimate\5-1312msg2.txt
+Without Smoothing - spam: 0.1095211174123173, legitimate: 0.12751148412903365, class: legitimate
+With Smoothing    - spam: 0.11216041654487117, legitimate: 0.1341051354890435, class: legitimate
+
+21 dataset\test\legitimate\5-1312msg3.txt
+Without Smoothing - spam: 0.14831961377570824, legitimate: 0.1274465899470757, class: spam
+With Smoothing    - spam: 0.15136462748439933, legitimate: 0.1362617062744959, class: spam
+
+22 dataset\test\legitimate\5-1315msg1.txt
+Without Smoothing - spam: 0.03764601812439827, legitimate: 0.04963675750804938, class: legitimate
+With Smoothing    - spam: 0.03858489652213906, legitimate: 0.05182351370480007, class: legitimate
+
+23 dataset\test\legitimate\5-1315msg2.txt
+Without Smoothing - spam: 0.10258484073483681, legitimate: 0.0738946243810935, class: spam
+With Smoothing    - spam: 0.102648780086743, legitimate: 0.07483412886818179, class: spam
+
+24 dataset\test\legitimate\5-1315msg3.txt
+Without Smoothing - spam: 0.09035773906299485, legitimate: 0.1509463753773321, class: legitimate
+With Smoothing    - spam: 0.09164839978751316, legitimate: 0.1526850311556964, class: legitimate
+
+25 dataset\test\legitimate\5-1315msg4.txt
+Without Smoothing - spam: 0.03706668308601687, legitimate: 0.06611430503889076, class: legitimate
+With Smoothing    - spam: 0.037372077878782266, legitimate: 0.06610282182875511, class: legitimate
+
+26 dataset\test\legitimate\5-1315msg5.txt
+Without Smoothing - spam: 0.023047467995431975, legitimate: 0.06530335639373462, class: legitimate
+With Smoothing    - spam: 0.023958589191705, legitimate: 0.06648766729275665, class: legitimate
+
+27 dataset\test\legitimate\5-1316msg1.txt
+Without Smoothing - spam: 0.09461115683257457, legitimate: 0.12845353052041303, class: legitimate
+With Smoothing    - spam: 0.09686169852514331, legitimate: 0.13354343830646703, class: legitimate
+
+28 dataset\test\legitimate\5-1318msg1.txt
+Without Smoothing - spam: 0.2018990736470717, legitimate: 0.17984471066648614, class: spam
+With Smoothing    - spam: 0.20339135728705732, legitimate: 0.18452864029253108, class: spam
+
+29 dataset\test\legitimate\5-1318msg2.txt
+Without Smoothing - spam: 0.14182614711658847, legitimate: 0.15620879706593208, class: legitimate
+With Smoothing    - spam: 0.14354113081256817, legitimate: 0.16036811250119634, class: legitimate
+
+30 dataset\test\legitimate\5-1318msg3.txt
+Without Smoothing - spam: 0.20534132795860702, legitimate: 0.19565228843592325, class: spam
+With Smoothing    - spam: 0.21316755982476215, legitimate: 0.21703695345123436, class: legitimate
+
+31 dataset\test\legitimate\5-1321msg1.txt
+Without Smoothing - spam: 0.06976794826996371, legitimate: 0.08265121223111162, class: legitimate
+With Smoothing    - spam: 0.07127737749624712, legitimate: 0.08634373781488269, class: legitimate
+
+32 dataset\test\legitimate\5-1322msg1.txt
+Without Smoothing - spam: 0.10237296207980465, legitimate: 0.20332319414565597, class: legitimate
+With Smoothing    - spam: 0.10621594727703831, legitimate: 0.21077852777984146, class: legitimate
+
+33 dataset\test\legitimate\5-1324msg1.txt
+Without Smoothing - spam: 0.14725704292776867, legitimate: 0.13621308450730213, class: spam
+With Smoothing    - spam: 0.149005896438379, legitimate: 0.14123859809795894, class: spam
+
+34 dataset\test\legitimate\5-1325msg1.txt
+Without Smoothing - spam: 0.16539333994919084, legitimate: 0.22674770934291003, class: legitimate
+With Smoothing    - spam: 0.16786239960819757, legitimate: 0.23158874203922575, class: legitimate
+
+35 dataset\test\legitimate\5-1326msg1.txt
+Without Smoothing - spam: 0.0443014592697494, legitimate: 0.08103623044039301, class: legitimate
+With Smoothing    - spam: 0.0461135579629604, legitimate: 0.08480251913419837, class: legitimate
+
+36 dataset\test\legitimate\5-1327msg1.txt
+Without Smoothing - spam: 0.020318945877716887, legitimate: 0.03407169428474806, class: legitimate
+With Smoothing    - spam: 0.021716618861474937, legitimate: 0.03744457892336803, class: legitimate
+
+37 dataset\test\legitimate\5-1328msg1.txt
+Without Smoothing - spam: 0.0175481805307555, legitimate: 0.017089556326967677, class: spam
+With Smoothing    - spam: 0.01815302515327604, legitimate: 0.01873364116834752, class: legitimate
+
+38 dataset\test\legitimate\5-1328msg2.txt
+Without Smoothing - spam: 0.019857151653223326, legitimate: 0.06202323627729619, class: legitimate
+With Smoothing    - spam: 0.020376464771446286, legitimate: 0.06221115855870601, class: legitimate
+
+39 dataset\test\legitimate\5-1328msg3.txt
+Without Smoothing - spam: 0.026414629641031955, legitimate: 0.1742479770636478, class: legitimate
+With Smoothing    - spam: 0.02789961199187099, legitimate: 0.17400007406479617, class: legitimate
+
+40 dataset\test\legitimate\5-1329msg1.txt
+Without Smoothing - spam: 0.14235405764975215, legitimate: 0.11903335288775273, class: spam
+With Smoothing    - spam: 0.14674120506368224, legitimate: 0.13154373532270644, class: spam
+
+41 dataset\test\legitimate\5-1330msg1.txt
+Without Smoothing - spam: 0.17059648354691853, legitimate: 0.2707584481787222, class: legitimate
+With Smoothing    - spam: 0.1761494809671315, legitimate: 0.28285049095575876, class: legitimate
+
+42 dataset\test\legitimate\5-1331msg1.txt
+Without Smoothing - spam: 0.025771777163764074, legitimate: 0.06362761410907257, class: legitimate
+With Smoothing    - spam: 0.026898091707311875, legitimate: 0.06557641548817217, class: legitimate
+
+43 dataset\test\legitimate\5-1332msg1.txt
+Without Smoothing - spam: 0.04476549895244439, legitimate: 0.13005125803293657, class: legitimate
+With Smoothing    - spam: 0.0465413322779789, legitimate: 0.13238260487454337, class: legitimate
+
+44 dataset\test\legitimate\5-1333msg1.txt
+Without Smoothing - spam: 0.09485633049269, legitimate: 0.14924864108823935, class: legitimate
+With Smoothing    - spam: 0.09750053802403574, legitimate: 0.15480699233870535, class: legitimate
+
+45 dataset\test\legitimate\5-1335msg1.txt
+Without Smoothing - spam: 0.07756361768737768, legitimate: 0.09281709368926663, class: legitimate
+With Smoothing    - spam: 0.08136656688256767, legitimate: 0.10262793389504608, class: legitimate
+
+46 dataset\test\legitimate\5-1337msg1.txt
+Without Smoothing - spam: 0.03177144264515732, legitimate: 0.08668735388348893, class: legitimate
+With Smoothing    - spam: 0.034204446757950244, legitimate: 0.09161492904061991, class: legitimate
+
+47 dataset\test\legitimate\5-1338msg1.txt
+Without Smoothing - spam: 0.14880999190554411, legitimate: 0.19506114286567386, class: legitimate
+With Smoothing    - spam: 0.1544956367651094, legitimate: 0.20907412879340262, class: legitimate
+
+48 dataset\test\legitimate\5-1339msg1.txt
+Without Smoothing - spam: 0.10567334618180066, legitimate: 0.22133804481113967, class: legitimate
+With Smoothing    - spam: 0.10944896817351141, legitimate: 0.22818654752194215, class: legitimate
+
+49 dataset\test\legitimate\5-1343msg1.txt
+Without Smoothing - spam: 0.03259829081444981, legitimate: 0.07261574782482687, class: legitimate
+With Smoothing    - spam: 0.03377185546362857, legitimate: 0.07457088621057395, class: legitimate
+
+50 dataset\test\legitimate\5-1344msg1.txt
+Without Smoothing - spam: 0.052752527683380436, legitimate: 0.0998778459616603, class: legitimate
+With Smoothing    - spam: 0.05511433350149597, legitimate: 0.10488797067800072, class: legitimate
+
+51 dataset\test\legitimate\5-1345msg1.txt
+Without Smoothing - spam: 0.1598170201816146, legitimate: 0.1555001913520787, class: spam
+With Smoothing    - spam: 0.17266417782179905, legitimate: 0.19028339113914286, class: legitimate
+
+52 dataset\test\legitimate\5-1347msg1.txt
+Without Smoothing - spam: 0.1490668084390803, legitimate: 0.21319236978972025, class: legitimate
+With Smoothing    - spam: 0.15395450859372625, legitimate: 0.22455881885461793, class: legitimate
+
+53 dataset\test\legitimate\5-1349msg1.txt
+Without Smoothing - spam: 0.053370751074860806, legitimate: 0.11543135486942042, class: legitimate
+With Smoothing    - spam: 0.0580710416579779, legitimate: 0.12632035268944825, class: legitimate
+
+54 dataset\test\legitimate\5-1351msg1.txt
+Without Smoothing - spam: 0.12818910891939755, legitimate: 0.13916504005931, class: legitimate
+With Smoothing    - spam: 0.13123940570827683, legitimate: 0.14707168094551784, class: legitimate
+
+55 dataset\test\legitimate\5-1352msg1.txt
+Without Smoothing - spam: 0.05151931257332809, legitimate: 0.14483251127048924, class: legitimate
+With Smoothing    - spam: 0.0538330237569227, legitimate: 0.1483798462420339, class: legitimate
+
+56 dataset\test\legitimate\5-1353msg1.txt
+Without Smoothing - spam: 0.06526691706175729, legitimate: 0.03508623605005073, class: spam
+With Smoothing    - spam: 0.06999271046794411, legitimate: 0.04869451523869574, class: spam
+
+57 dataset\test\legitimate\5-1353msg2.txt
+Without Smoothing - spam: 0.09566123566004323, legitimate: 0.1371435391383862, class: legitimate
+With Smoothing    - spam: 0.0985960812473641, legitimate: 0.14387669265009634, class: legitimate
+
+58 dataset\test\legitimate\5-1353msg3.txt
+Without Smoothing - spam: 0.022689489563450526, legitimate: 0.021470235819488648, class: spam
+With Smoothing    - spam: 0.024061905681443313, legitimate: 0.025204579545903286, class: legitimate
+
+59 dataset\test\legitimate\5-1356msg1.txt
+Without Smoothing - spam: 0.02232552864856572, legitimate: 0.10996117099002967, class: legitimate
+With Smoothing    - spam: 0.02549893156227563, legitimate: 0.11599829172146509, class: legitimate
+
+60 dataset\test\legitimate\5-1358msg1.txt
+Without Smoothing - spam: 0.12919799943447463, legitimate: 0.20767840071392546, class: legitimate
+With Smoothing    - spam: 0.13503950027584152, legitimate: 0.22116943651615054, class: legitimate
+
+61 dataset\test\legitimate\5-1359msg1.txt
+Without Smoothing - spam: 0.1499869835729081, legitimate: 0.18689902436294134, class: legitimate
+With Smoothing    - spam: 0.15395282841912414, legitimate: 0.19652870108139447, class: legitimate
+
+62 dataset\test\legitimate\5-1361msg1.txt
+Without Smoothing - spam: 0.059410724069194176, legitimate: 0.139417389007725, class: legitimate
+With Smoothing    - spam: 0.06148734830042104, legitimate: 0.14265825397808723, class: legitimate
+
+63 dataset\test\legitimate\5-1362msg1.txt
+Without Smoothing - spam: 0.15671037373812943, legitimate: 0.19547132489752747, class: legitimate
+With Smoothing    - spam: 0.1694148876586244, legitimate: 0.22860153676292919, class: legitimate
+
+64 dataset\test\legitimate\5-1370msg1.txt
+Without Smoothing - spam: 0.034703506593802336, legitimate: 0.08187373072780475, class: legitimate
+With Smoothing    - spam: 0.036557090320090996, legitimate: 0.08551576045351542, class: legitimate
+
+65 dataset\test\legitimate\5-1371msg0.txt
+Without Smoothing - spam: 0.03001662459208177, legitimate: 0.05177377961446675, class: legitimate
+With Smoothing    - spam: 0.031219546548835783, legitimate: 0.05432500976370979, class: legitimate
+
+66 dataset\test\legitimate\5-1371msg1.txt
+Without Smoothing - spam: 0.06609051122822379, legitimate: 0.09423652472258856, class: legitimate
+With Smoothing    - spam: 0.06721372891272767, legitimate: 0.0964013306045172, class: legitimate
+
+67 dataset\test\legitimate\5-1371msg2.txt
+Without Smoothing - spam: 0.07982426274494718, legitimate: 0.15355241960092383, class: legitimate
+With Smoothing    - spam: 0.08103572262660258, legitimate: 0.15470751954084289, class: legitimate
+
+68 dataset\test\legitimate\5-1372msg1.txt
+Without Smoothing - spam: 0.03300329103663581, legitimate: 0.07948819886932433, class: legitimate
+With Smoothing    - spam: 0.034965364647243556, legitimate: 0.08343719537525715, class: legitimate
+
+69 dataset\test\legitimate\5-1372msg2.txt
+Without Smoothing - spam: 0.11906821751071367, legitimate: 0.16000675356820604, class: legitimate
+With Smoothing    - spam: 0.12227576897830934, legitimate: 0.16745399266975175, class: legitimate
+
+70 dataset\test\legitimate\5-1372msg3.txt
+Without Smoothing - spam: 0.09953442274599751, legitimate: 0.10521763188111476, class: legitimate
+With Smoothing    - spam: 0.09980962821934906, legitimate: 0.1057310940627142, class: legitimate
+
+71 dataset\test\legitimate\5-1373msg1.txt
+Without Smoothing - spam: 0.16828776835650114, legitimate: 0.1766080677217301, class: legitimate
+With Smoothing    - spam: 0.17392566091298442, legitimate: 0.19156811109902078, class: legitimate
+
+72 dataset\test\legitimate\5-1375msg1.txt
+Without Smoothing - spam: 0.023573801976230782, legitimate: 0.05441468865448423, class: legitimate
+With Smoothing    - spam: 0.02423590112503393, legitimate: 0.05530106815287118, class: legitimate
+
+73 dataset\test\legitimate\5-1375msg2.txt
+Without Smoothing - spam: 0.1027159782359777, legitimate: 0.05965099879220112, class: spam
+With Smoothing    - spam: 0.10268710935682328, legitimate: 0.06081094120235996, class: spam
+
+74 dataset\test\legitimate\5-1375msg3.txt
+Without Smoothing - spam: 0.06653054417665427, legitimate: 0.04103548751458278, class: spam
+With Smoothing    - spam: 0.06709912710716313, legitimate: 0.04328273870366209, class: spam
+
+75 dataset\test\legitimate\5-1375msg4.txt
+Without Smoothing - spam: 0.032411155077137044, legitimate: 0.06163416991761865, class: legitimate
+With Smoothing    - spam: 0.033404983131977484, legitimate: 0.06346668367321201, class: legitimate
+
+76 dataset\test\legitimate\5-1375msg5.txt
+Without Smoothing - spam: 0.04902197848333806, legitimate: 0.10255354238269397, class: legitimate
+With Smoothing    - spam: 0.05020488048132575, legitimate: 0.10420460562067521, class: legitimate
+
+77 dataset\test\legitimate\5-1376msg1.txt
+Without Smoothing - spam: 0.1126749491003307, legitimate: 0.16216850336390154, class: legitimate
+With Smoothing    - spam: 0.1177783655647861, legitimate: 0.17449281909511052, class: legitimate
+
+78 dataset\test\legitimate\5-1377msg1.txt
+Without Smoothing - spam: 0.09034563208817147, legitimate: 0.12479967863036603, class: legitimate
+With Smoothing    - spam: 0.0935234636623085, legitimate: 0.1323673147719424, class: legitimate
+
+79 dataset\test\legitimate\5-1378msg1.txt
+Without Smoothing - spam: 0.015369305664352432, legitimate: 0.03731032094675926, class: legitimate
+With Smoothing    - spam: 0.017032029783499388, legitimate: 0.04116544400879482, class: legitimate
+
+80 dataset\test\legitimate\5-1382msg0.txt
+Without Smoothing - spam: 0.0, legitimate: 0.007670685129626552, class: legitimate
+With Smoothing    - spam: 0.0006091636487627722, legitimate: 0.009090394544750484, class: legitimate
+
+81 dataset\test\legitimate\5-1383msg1.txt
+Without Smoothing - spam: 0.1042778606668206, legitimate: 0.1785554836975206, class: legitimate
+With Smoothing    - spam: 0.10663803099553637, legitimate: 0.18271591285157912, class: legitimate
+
+82 dataset\test\legitimate\5-1384msg1.txt
+Without Smoothing - spam: 0.0055723169755556926, legitimate: 0.0630755273417803, class: legitimate
+With Smoothing    - spam: 0.006792156779187044, legitimate: 0.06471121369903049, class: legitimate
+
+83 dataset\test\legitimate\5-1385msg1.txt
+Without Smoothing - spam: 0.031217289575765035, legitimate: 0.03961648603975649, class: legitimate
+With Smoothing    - spam: 0.032955662298479564, legitimate: 0.04405821458114361, class: legitimate
+
+84 dataset\test\legitimate\5-1386msg1.txt
+Without Smoothing - spam: 0.0, legitimate: 0.050139295308418465, class: legitimate
+With Smoothing    - spam: 0.0016142824632740637, legitimate: 0.05299642489049915, class: legitimate
+
+85 dataset\test\legitimate\5-1388msg1.txt
+Without Smoothing - spam: 0.1726670126796631, legitimate: 0.2125780975171862, class: legitimate
+With Smoothing    - spam: 0.17740322528955968, legitimate: 0.2242043617155488, class: legitimate
+
+86 dataset\test\legitimate\5-1389msg1.txt
+Without Smoothing - spam: 0.09721850967016697, legitimate: 0.13172549377939788, class: legitimate
+With Smoothing    - spam: 0.09909686599158403, legitimate: 0.13581009234752986, class: legitimate
+
+87 dataset\test\legitimate\5-1390msg1.txt
+Without Smoothing - spam: 0.043349199070079523, legitimate: 0.11904996014912883, class: legitimate
+With Smoothing    - spam: 0.043971039344014695, legitimate: 0.11858503123900815, class: legitimate
+
+88 dataset\test\legitimate\5-1390msg2.txt
+Without Smoothing - spam: 0.07798698272379119, legitimate: 0.11774396265574072, class: legitimate
+With Smoothing    - spam: 0.07822173727513713, legitimate: 0.11723176313556825, class: legitimate
+
+89 dataset\test\legitimate\5-1390msg3.txt
+Without Smoothing - spam: 0.0027091927836955854, legitimate: 0.007355427798444369, class: legitimate
+With Smoothing    - spam: 0.0028630613565451286, legitimate: 0.00763672870054934, class: legitimate
+
+90 dataset\test\legitimate\5-1393msg1.txt
+Without Smoothing - spam: 0.07993372550088423, legitimate: 0.14647531939824093, class: legitimate
+With Smoothing    - spam: 0.08294927307603032, legitimate: 0.15263336722753404, class: legitimate
+
+91 dataset\test\legitimate\5-1393msg2.txt
+Without Smoothing - spam: 0.03868508470070904, legitimate: 0.11056354992071318, class: legitimate
+With Smoothing    - spam: 0.04083130980240915, legitimate: 0.11428444884905668, class: legitimate
+
+92 dataset\test\legitimate\5-1393msg3.txt
+Without Smoothing - spam: 0.05439935964534204, legitimate: 0.09274602637808589, class: legitimate
+With Smoothing    - spam: 0.0550986879213355, legitimate: 0.09352934213071952, class: legitimate
+
+93 dataset\test\legitimate\5-1398msg1.txt
+Without Smoothing - spam: 0.00955012028070007, legitimate: 0.04413256679067127, class: legitimate
+With Smoothing    - spam: 0.011732760053335262, legitimate: 0.04902286850866652, class: legitimate
+
+94 dataset\test\legitimate\5-1402msg1.txt
+Without Smoothing - spam: 0.03975222648545951, legitimate: 0.09976341761416954, class: legitimate
+With Smoothing    - spam: 0.040150376650312146, legitimate: 0.09911330680718779, class: legitimate
+
+95 dataset\test\legitimate\5-1402msg2.txt
+Without Smoothing - spam: 0.027816322195347777, legitimate: 0.10109197321409016, class: legitimate
+With Smoothing    - spam: 0.028464043515821005, legitimate: 0.10073172134842104, class: legitimate
+
+96 dataset\test\legitimate\5-1402msg3.txt
+Without Smoothing - spam: 0.031235672062442897, legitimate: 0.12639509931247347, class: legitimate
+With Smoothing    - spam: 0.032089776622029956, legitimate: 0.12595658152064004, class: legitimate
+
+97 dataset\test\legitimate\5-1405msg1.txt
+Without Smoothing - spam: 0.04510094459021138, legitimate: 0.1376620745774945, class: legitimate
+With Smoothing    - spam: 0.04848784716580627, legitimate: 0.1441337353590735, class: legitimate
+
+98 dataset\test\legitimate\5-1405msg2.txt
+Without Smoothing - spam: 0.07251216732954636, legitimate: 0.13583892659967498, class: legitimate
+With Smoothing    - spam: 0.07402277716656622, legitimate: 0.1380868124638762, class: legitimate
+
+99 dataset\test\legitimate\5-1405msg3.txt
+Without Smoothing - spam: 0.09630630928152915, legitimate: 0.14388672649675133, class: legitimate
+With Smoothing    - spam: 0.0993307899790855, legitimate: 0.1506734779989157, class: legitimate
+
+100 dataset\test\legitimate\5-1413msg1.txt
+Without Smoothing - spam: 0.025337109783880304, legitimate: 0.070091479450297, class: legitimate
+With Smoothing    - spam: 0.025889378073770564, legitimate: 0.0702401769072994, class: legitimate
+
+101 dataset\test\legitimate\5-1413msg2.txt
+Without Smoothing - spam: 0.14438767941785552, legitimate: 0.18385488093458696, class: legitimate
+With Smoothing    - spam: 0.1475694788220628, legitimate: 0.19129849892513767, class: legitimate
+
+102 dataset\test\legitimate\5-1413msg3.txt
+Without Smoothing - spam: 0.012812424506932612, legitimate: 0.020102224146368496, class: legitimate
+With Smoothing    - spam: 0.012980509204961684, legitimate: 0.02033630533468147, class: legitimate
+
+103 dataset\test\legitimate\5-1413msg4.txt
+Without Smoothing - spam: 0.003263345853087864, legitimate: 0.05300980723706459, class: legitimate
+With Smoothing    - spam: 0.0038072630639674502, legitimate: 0.05304649073990635, class: legitimate
+
+104 dataset\test\legitimate\5-1413msg5.txt
+Without Smoothing - spam: 0.05077358830549095, legitimate: 0.13378554789057176, class: legitimate
+With Smoothing    - spam: 0.05172486076561974, legitimate: 0.133964146304288, class: legitimate
+
+105 dataset\test\legitimate\5-1415msg1.txt
+Without Smoothing - spam: 0.055761233026901995, legitimate: 0.046972780723140914, class: spam
+With Smoothing    - spam: 0.05592765841589469, legitimate: 0.04760856662034737, class: spam
+
+106 dataset\test\legitimate\5-1415msg2.txt
+Without Smoothing - spam: 0.054595211084611225, legitimate: 0.06169561540768039, class: legitimate
+With Smoothing    - spam: 0.055077765610982383, legitimate: 0.06277856823571837, class: legitimate
+
+107 dataset\test\legitimate\5-1415msg3.txt
+Without Smoothing - spam: 0.07666629903227333, legitimate: 0.1034637086501625, class: legitimate
+With Smoothing    - spam: 0.08181669789276241, legitimate: 0.11651552949382618, class: legitimate
+
+108 dataset\test\legitimate\5-1416msg1.txt
+Without Smoothing - spam: 0.03777267696442732, legitimate: 0.0919588963129295, class: legitimate
+With Smoothing    - spam: 0.03983713779801657, legitimate: 0.09596209078250527, class: legitimate
+
+109 dataset\test\legitimate\5-1419msg1.txt
+Without Smoothing - spam: 0.07691845573317202, legitimate: 0.14197844290598044, class: legitimate
+With Smoothing    - spam: 0.07829136191404452, legitimate: 0.14381095251428513, class: legitimate
+
+110 dataset\test\legitimate\5-1420msg1.txt
+Without Smoothing - spam: 0.10684081717683565, legitimate: 0.12079287559390482, class: legitimate
+With Smoothing    - spam: 0.10899130525767686, legitimate: 0.12618786218287115, class: legitimate
+
+111 dataset\test\legitimate\5-1420msg2.txt
+Without Smoothing - spam: 0.04417104379113537, legitimate: 0.0999997847644068, class: legitimate
+With Smoothing    - spam: 0.04653283500662801, legitimate: 0.10476172325197469, class: legitimate
+
+112 dataset\test\legitimate\5-1420msg3.txt
+Without Smoothing - spam: 0.04119204482482606, legitimate: 0.07232230479963686, class: legitimate
+With Smoothing    - spam: 0.04282407964033024, legitimate: 0.07577027553979275, class: legitimate
+
+113 dataset\test\legitimate\5-1426msg1.txt
+Without Smoothing - spam: 0.05266151186419054, legitimate: 0.09667971307601493, class: legitimate
+With Smoothing    - spam: 0.05548114975996159, legitimate: 0.10301580235917883, class: legitimate
+
+114 dataset\test\legitimate\5-1426msg2.txt
+Without Smoothing - spam: 0.03480273318034126, legitimate: 0.0876118475201509, class: legitimate
+With Smoothing    - spam: 0.03653338944345056, legitimate: 0.09075950824374343, class: legitimate
+
+115 dataset\test\legitimate\5-1426msg3.txt
+Without Smoothing - spam: 0.07653477763679735, legitimate: 0.16704708455369488, class: legitimate
+With Smoothing    - spam: 0.07779005123339056, legitimate: 0.16783002258232793, class: legitimate
+
+116 dataset\test\legitimate\5-1430msg1.txt
+Without Smoothing - spam: 0.10109623653639474, legitimate: 0.14860727381863464, class: legitimate
+With Smoothing    - spam: 0.10233337855296601, legitimate: 0.15052269369939278, class: legitimate
+
+117 dataset\test\legitimate\5-1430msg2.txt
+Without Smoothing - spam: 0.0779816513761468, legitimate: 0.1063962220756557, class: legitimate
+With Smoothing    - spam: 0.07830775317648785, legitimate: 0.1064493246169124, class: legitimate
+
+118 dataset\test\legitimate\5-1430msg3.txt
+Without Smoothing - spam: 0.021273320608336928, legitimate: 0.029092794260285146, class: legitimate
+With Smoothing    - spam: 0.02326998700074575, legitimate: 0.03425134739177645, class: legitimate
+
+119 dataset\test\legitimate\5-1431msg1.txt
+Without Smoothing - spam: 0.13396073344355472, legitimate: 0.15785684453395585, class: legitimate
+With Smoothing    - spam: 0.14224681775366665, legitimate: 0.17950539747429278, class: legitimate
+
+120 dataset\test\legitimate\5-1432msg1.txt
+Without Smoothing - spam: 0.15788899596496428, legitimate: 0.17142473536258923, class: legitimate
+With Smoothing    - spam: 0.16250948658245595, legitimate: 0.18347775350688028, class: legitimate
+
+121 dataset\test\legitimate\5-1434msg1.txt
+Without Smoothing - spam: 0.0880007113088766, legitimate: 0.07464945500545585, class: spam
+With Smoothing    - spam: 0.0894684239930544, legitimate: 0.07898815918827747, class: spam
+
+122 dataset\test\legitimate\5-1434msg2.txt
+Without Smoothing - spam: 0.015362354534819284, legitimate: 0.02206628339533311, class: legitimate
+With Smoothing    - spam: 0.01562500185539046, legitimate: 0.022581718199259304, class: legitimate
+
+123 dataset\test\legitimate\5-1434msg3.txt
+Without Smoothing - spam: 0.1106107096936379, legitimate: 0.13566759130681802, class: legitimate
+With Smoothing    - spam: 0.11159327525486411, legitimate: 0.1375374143116449, class: legitimate
+
+124 dataset\test\legitimate\5-1435msg1.txt
+Without Smoothing - spam: 0.06405952936716883, legitimate: 0.14481270205389138, class: legitimate
+With Smoothing    - spam: 0.06754968167896513, legitimate: 0.1519000030088284, class: legitimate
+
+125 dataset\test\legitimate\5-1435msg2.txt
+Without Smoothing - spam: 0.02941240938299728, legitimate: 0.06561346724994907, class: legitimate
+With Smoothing    - spam: 0.030560939643560867, legitimate: 0.06766950577009419, class: legitimate
+
+126 dataset\test\legitimate\5-1435msg3.txt
+Without Smoothing - spam: 0.029616402932094315, legitimate: 0.04584751903348092, class: legitimate
+With Smoothing    - spam: 0.03033626473275139, legitimate: 0.04732192982533187, class: legitimate
+
+127 dataset\test\legitimate\5-1439msg1.txt
+Without Smoothing - spam: 0.009328243334770028, legitimate: 0.04810936951221367, class: legitimate
+With Smoothing    - spam: 0.012244164106878137, legitimate: 0.054792570089925864, class: legitimate
+
+128 dataset\test\legitimate\5-1440msg1.txt
+Without Smoothing - spam: 0.0914660427313589, legitimate: 0.1630903988713813, class: legitimate
+With Smoothing    - spam: 0.0955470588323122, legitimate: 0.1719802548272804, class: legitimate
+
+129 dataset\test\legitimate\5-1442msg1.txt
+Without Smoothing - spam: 0.07979493906002076, legitimate: 0.14579949478472926, class: legitimate
+With Smoothing    - spam: 0.08750341964486594, legitimate: 0.16468323172351332, class: legitimate
+
+130 dataset\test\legitimate\5-1443msg1.txt
+Without Smoothing - spam: 0.09175121167838618, legitimate: 0.10154558804342925, class: legitimate
+With Smoothing    - spam: 0.09247873848895012, legitimate: 0.10322581717997446, class: legitimate
+
+131 dataset\test\legitimate\5-1444msg1.txt
+Without Smoothing - spam: 0.04887193972541563, legitimate: 0.015610866850514002, class: spam
+With Smoothing    - spam: 0.04934949064493894, legitimate: 0.017872179090617592, class: spam
+
+132 dataset\test\legitimate\5-1445msg1.txt
+Without Smoothing - spam: 0.0029862693183917246, legitimate: 0.06596398022563242, class: legitimate
+With Smoothing    - spam: 0.004690545808995117, legitimate: 0.06874355153908422, class: legitimate
+
+133 dataset\test\legitimate\5-1450msg1.txt
+Without Smoothing - spam: 0.16866446205068172, legitimate: 0.17386259210728588, class: legitimate
+With Smoothing    - spam: 0.17984224520315528, legitimate: 0.2038513103976686, class: legitimate
+
+134 dataset\test\legitimate\5-1452msg1.txt
+Without Smoothing - spam: 0.06953686400088721, legitimate: 0.12356403301210571, class: legitimate
+With Smoothing    - spam: 0.07165874069843647, legitimate: 0.12772988634812626, class: legitimate
+
+135 dataset\test\legitimate\5-1453msg1.txt
+Without Smoothing - spam: 0.11812377731896448, legitimate: 0.1170448806308503, class: spam
+With Smoothing    - spam: 0.12014548903931992, legitimate: 0.12253687011528248, class: legitimate
+
+136 dataset\test\legitimate\5-1453msg2.txt
+Without Smoothing - spam: 0.07618349342479269, legitimate: 0.1216535050124158, class: legitimate
+With Smoothing    - spam: 0.07746899538689606, legitimate: 0.12381292327536897, class: legitimate
+
+137 dataset\test\legitimate\5-1453msg3.txt
+Without Smoothing - spam: 0.08701966303979537, legitimate: 0.22009460616729973, class: legitimate
+With Smoothing    - spam: 0.09174871346223902, legitimate: 0.22898843959392232, class: legitimate
+
+138 dataset\test\legitimate\5-1454msg1.txt
+Without Smoothing - spam: 0.05028810583714383, legitimate: 0.0944541005033099, class: legitimate
+With Smoothing    - spam: 0.053529005333928736, legitimate: 0.10192148231200676, class: legitimate
+
+139 dataset\test\legitimate\5-1454msg2.txt
+Without Smoothing - spam: 0.09425716331546609, legitimate: 0.09708890636502383, class: legitimate
+With Smoothing    - spam: 0.09739284569548612, legitimate: 0.10546572994150508, class: legitimate
+
+140 dataset\test\legitimate\5-1455msg1.txt
+Without Smoothing - spam: 0.05947909611477126, legitimate: 0.06276764960567528, class: legitimate
+With Smoothing    - spam: 0.060794356255566305, legitimate: 0.06616031240126383, class: legitimate
+
+141 dataset\test\legitimate\5-1455msg2.txt
+Without Smoothing - spam: 0.10606468671898117, legitimate: 0.14824846769566757, class: legitimate
+With Smoothing    - spam: 0.1073995769451112, legitimate: 0.1505853233941676, class: legitimate
+
+142 dataset\test\legitimate\5-1455msg3.txt
+Without Smoothing - spam: 0.09019896127619059, legitimate: 0.1100638149486289, class: legitimate
+With Smoothing    - spam: 0.09246615356888223, legitimate: 0.11560014680306895, class: legitimate
+
+143 dataset\test\legitimate\5-1458msg1.txt
+Without Smoothing - spam: 0.04831809523826972, legitimate: 0.1326729735456363, class: legitimate
+With Smoothing    - spam: 0.05197620456067003, legitimate: 0.1401118069247497, class: legitimate
+
+144 dataset\test\legitimate\5-1459msg1.txt
+Without Smoothing - spam: 0.022146804815213292, legitimate: 0.0601796551559343, class: legitimate
+With Smoothing    - spam: 0.024042868447648684, legitimate: 0.06419626151613764, class: legitimate
+
+145 dataset\test\legitimate\5-1459msg2.txt
+Without Smoothing - spam: 0.020429685313703188, legitimate: 0.18845325252886094, class: legitimate
+With Smoothing    - spam: 0.0242013225033294, legitimate: 0.19378684750599257, class: legitimate
+
+146 dataset\test\legitimate\5-1459msg3.txt
+Without Smoothing - spam: 0.05114943551918612, legitimate: 0.15913756201645296, class: legitimate
+With Smoothing    - spam: 0.052370815879304304, legitimate: 0.1593252329456632, class: legitimate
+
+147 dataset\test\legitimate\5-1460msg1.txt
+Without Smoothing - spam: 0.11493622735810033, legitimate: 0.11386341430093967, class: spam
+With Smoothing    - spam: 0.11791310146017002, legitimate: 0.12191865527916755, class: legitimate
+
+148 dataset\test\legitimate\5-1462msg1.txt
+Without Smoothing - spam: 0.12162981549012988, legitimate: 0.24073230989177666, class: legitimate
+With Smoothing    - spam: 0.1276739444554847, legitimate: 0.2536037183628401, class: legitimate
+
+149 dataset\test\legitimate\5-1462msg2.txt
+Without Smoothing - spam: 0.12524430814738408, legitimate: 0.18090695424316647, class: legitimate
+With Smoothing    - spam: 0.1289038165411383, legitimate: 0.18916029963794345, class: legitimate
+
+150 dataset\test\legitimate\5-1462msg3.txt
+Without Smoothing - spam: 0.1363119886678682, legitimate: 0.19455665548820528, class: legitimate
+With Smoothing    - spam: 0.14079668136382276, legitimate: 0.20496739074636336, class: legitimate
+
+151 dataset\test\legitimate\5-1463msg1.txt
+Without Smoothing - spam: 0.18940213141018997, legitimate: 0.2490054708886993, class: legitimate
+With Smoothing    - spam: 0.19813401101153721, legitimate: 0.2708271076648326, class: legitimate
+
+152 dataset\test\legitimate\5-1464msg1.txt
+Without Smoothing - spam: 0.021765901114463394, legitimate: 0.052183121246937796, class: legitimate
+With Smoothing    - spam: 0.022934946158972257, legitimate: 0.05445552481683508, class: legitimate
+
+153 dataset\test\legitimate\5-1466msg1.txt
+Without Smoothing - spam: 0.19621990592144256, legitimate: 0.25628808164742733, class: legitimate
+With Smoothing    - spam: 0.20344835987764298, legitimate: 0.2740502952297947, class: legitimate
+
+154 dataset\test\legitimate\5-1468msg1.txt
+Without Smoothing - spam: 0.11586086528216046, legitimate: 0.12882085497578455, class: legitimate
+With Smoothing    - spam: 0.12665576329272243, legitimate: 0.15754794446743348, class: legitimate
+
+155 dataset\test\legitimate\5-1470msg1.txt
+Without Smoothing - spam: 0.07724586133727375, legitimate: 0.1350481940402188, class: legitimate
+With Smoothing    - spam: 0.08007750985846322, legitimate: 0.1410118421884706, class: legitimate
+
+156 dataset\test\legitimate\5-1471msg1.txt
+Without Smoothing - spam: 0.04536478662411743, legitimate: 0.05188747040653951, class: legitimate
+With Smoothing    - spam: 0.04676940776358926, legitimate: 0.055486376433304035, class: legitimate
+
+157 dataset\test\legitimate\5-1472msg1.txt
+Without Smoothing - spam: 0.02266869761620626, legitimate: 0.07026199567347609, class: legitimate
+With Smoothing    - spam: 0.023614999506184273, legitimate: 0.07144522801760442, class: legitimate
+
+158 dataset\test\legitimate\5-1473msg1.txt
+Without Smoothing - spam: 0.16571811133807027, legitimate: 0.16723144591085576, class: legitimate
+With Smoothing    - spam: 0.1718295541323055, legitimate: 0.18367884132960102, class: legitimate
+
+159 dataset\test\legitimate\5-1474msg1.txt
+Without Smoothing - spam: 0.15556385923803517, legitimate: 0.14715799780059832, class: spam
+With Smoothing    - spam: 0.16093447850032502, legitimate: 0.1618992923022894, class: legitimate
+
+160 dataset\test\legitimate\5-1475msg1.txt
+Without Smoothing - spam: 0.0, legitimate: 0.0, class: legitimate
+With Smoothing    - spam: 0.002467117323337116, legitimate: 0.006651426139964145, class: legitimate
+
+161 dataset\test\legitimate\5-1479msg1.txt
+Without Smoothing - spam: 0.06410137354898494, legitimate: 0.1101972625281269, class: legitimate
+With Smoothing    - spam: 0.06618840257630047, legitimate: 0.11449753058126419, class: legitimate
+
+162 dataset\test\legitimate\5-1482msg1.txt
+Without Smoothing - spam: 0.08053610413151867, legitimate: 0.13442388999014765, class: legitimate
+With Smoothing    - spam: 0.08567723667361246, legitimate: 0.1467254340673253, class: legitimate
+
+163 dataset\test\legitimate\5-1482msg2.txt
+Without Smoothing - spam: 0.06601488110864527, legitimate: 0.20623547976638165, class: legitimate
+With Smoothing    - spam: 0.06911872466723488, legitimate: 0.21057299036126595, class: legitimate
+
+164 dataset\test\legitimate\5-1482msg3.txt
+Without Smoothing - spam: 0.07114029737133076, legitimate: 0.11199339963005554, class: legitimate
+With Smoothing    - spam: 0.07290913007070507, legitimate: 0.11558113422449749, class: legitimate
+
+165 dataset\test\legitimate\5-1482msg4.txt
+Without Smoothing - spam: 0.04103811341666154, legitimate: 0.09249631456130239, class: legitimate
+With Smoothing    - spam: 0.0427022482092945, legitimate: 0.09544995679219144, class: legitimate
+
+166 dataset\test\legitimate\5-1482msg5.txt
+Without Smoothing - spam: 0.03275660365741026, legitimate: 0.1054456681491183, class: legitimate
+With Smoothing    - spam: 0.034569935484660086, legitimate: 0.10824551061051181, class: legitimate
+
+167 dataset\test\legitimate\5-1484msg1.txt
+Without Smoothing - spam: 0.019064499206792148, legitimate: 0.07671653298663036, class: legitimate
+With Smoothing    - spam: 0.021479951749245992, legitimate: 0.08156204329886119, class: legitimate
+
+168 dataset\test\legitimate\5-1486msg1.txt
+Without Smoothing - spam: 0.037559263592143344, legitimate: 0.08446756819972391, class: legitimate
+With Smoothing    - spam: 0.04093568735785662, legitimate: 0.09221685570219065, class: legitimate
+
+169 dataset\test\legitimate\5-1487msg1.txt
+Without Smoothing - spam: 0.07767824335694955, legitimate: 0.16693318721522094, class: legitimate
+With Smoothing    - spam: 0.07872536203106661, legitimate: 0.167197657316543, class: legitimate
+
+170 dataset\test\legitimate\5-1488msg1.txt
+Without Smoothing - spam: 0.10279712960908331, legitimate: 0.09978960130435241, class: spam
+With Smoothing    - spam: 0.10486876478026515, legitimate: 0.1054598139756711, class: legitimate
+
+171 dataset\test\legitimate\5-1488msg2.txt
+Without Smoothing - spam: 0.13437902966856244, legitimate: 0.17126658208244747, class: legitimate
+With Smoothing    - spam: 0.1390386513023586, legitimate: 0.18276770679532706, class: legitimate
+
+172 dataset\test\legitimate\5-1488msg3.txt
+Without Smoothing - spam: 0.11511708088681977, legitimate: 0.17005432190103006, class: legitimate
+With Smoothing    - spam: 0.1167530473378369, legitimate: 0.1728857659401244, class: legitimate
+
+173 dataset\test\legitimate\5-1490msg1.txt
+Without Smoothing - spam: 0.0843147006935894, legitimate: 0.12770866183802665, class: legitimate
+With Smoothing    - spam: 0.09428819398336771, legitimate: 0.1533553282400457, class: legitimate
+
+174 dataset\test\legitimate\5-1491msg1.txt
+Without Smoothing - spam: 0.16996206728799132, legitimate: 0.1955520336666916, class: legitimate
+With Smoothing    - spam: 0.17625188124784744, legitimate: 0.21172020378520323, class: legitimate
+
+175 dataset\test\legitimate\5-1492msg1.txt
+Without Smoothing - spam: 0.12777748406701706, legitimate: 0.13312213820564806, class: legitimate
+With Smoothing    - spam: 0.1290655232774182, legitimate: 0.13642732570724211, class: legitimate
+
+176 dataset\test\legitimate\5-1495msg1.txt
+Without Smoothing - spam: 0.11204405508556887, legitimate: 0.10734504150016382, class: spam
+With Smoothing    - spam: 0.11456491591081482, legitimate: 0.11427407188692416, class: spam
+
+177 dataset\test\legitimate\5-1496msg1.txt
+Without Smoothing - spam: 0.14228556489503522, legitimate: 0.13668939943826772, class: spam
+With Smoothing    - spam: 0.14469635510329473, legitimate: 0.14334457616588023, class: spam
+
+178 dataset\test\legitimate\5-1496msg2.txt
+Without Smoothing - spam: 0.02097659154147964, legitimate: 0.06235215321078852, class: legitimate
+With Smoothing    - spam: 0.02136065570923532, legitimate: 0.06220231184546971, class: legitimate
+
+179 dataset\test\legitimate\5-1496msg3.txt
+Without Smoothing - spam: 0.033464688134967065, legitimate: 0.028660804869800473, class: spam
+With Smoothing    - spam: 0.0337171052631579, legitimate: 0.029479389062243413, class: spam
+
+180 dataset\test\legitimate\5-1497msg1.txt
+Without Smoothing - spam: 0.04891360295060458, legitimate: 0.12188634997918596, class: legitimate
+With Smoothing    - spam: 0.057102540031030755, legitimate: 0.1418485818467531, class: legitimate
+
+181 dataset\test\legitimate\5-1498msg1.txt
+Without Smoothing - spam: 0.10073382100856032, legitimate: 0.18939428899509464, class: legitimate
+With Smoothing    - spam: 0.1075121543627018, legitimate: 0.20512675137275113, class: legitimate
+
+182 dataset\test\legitimate\5-1499msg1.txt
+Without Smoothing - spam: 0.10081687234234883, legitimate: 0.17780552376272155, class: legitimate
+With Smoothing    - spam: 0.10434147444418619, legitimate: 0.18507961641615436, class: legitimate
+
+183 dataset\test\legitimate\5-1503msg1.txt
+Without Smoothing - spam: 0.15121486617733568, legitimate: 0.23307605288568106, class: legitimate
+With Smoothing    - spam: 0.1559379205431957, legitimate: 0.24345320073826857, class: legitimate
+
+184 dataset\test\legitimate\5-1504msg1.txt
+Without Smoothing - spam: 0.04306928578582571, legitimate: 0.1449083595416748, class: legitimate
+With Smoothing    - spam: 0.047239934894263994, legitimate: 0.15322584323957616, class: legitimate
+
+185 dataset\test\legitimate\5-1505msg1.txt
+Without Smoothing - spam: 0.03423434517578966, legitimate: 0.1102043820916081, class: legitimate
+With Smoothing    - spam: 0.03792034946848154, legitimate: 0.11790272017960261, class: legitimate
+
+186 dataset\test\legitimate\5-1506msg1.txt
+Without Smoothing - spam: 0.032079305461486365, legitimate: 0.07196635265687962, class: legitimate
+With Smoothing    - spam: 0.03396078111299082, legitimate: 0.07587769434105421, class: legitimate
+
+187 dataset\test\legitimate\5-1508msg1.txt
+Without Smoothing - spam: 0.09692851119835688, legitimate: 0.10196078925887596, class: legitimate
+With Smoothing    - spam: 0.09750967693742117, legitimate: 0.10332777777781972, class: legitimate
+
+188 dataset\test\legitimate\5-1508msg2.txt
+Without Smoothing - spam: 0.03331075672680254, legitimate: 0.012441353058590102, class: spam
+With Smoothing    - spam: 0.03359527661526435, legitimate: 0.013808443221140748, class: spam
+
+189 dataset\test\legitimate\5-1508msg3.txt
+Without Smoothing - spam: 0.002370556494652976, legitimate: 0.010568143388569495, class: legitimate
+With Smoothing    - spam: 0.00319811231500572, legitimate: 0.012563639351861689, class: legitimate
+
+190 dataset\test\legitimate\5-1509msg1.txt
+Without Smoothing - spam: 0.07556004617521424, legitimate: 0.09319104981143347, class: legitimate
+With Smoothing    - spam: 0.07865171751892537, legitimate: 0.10101852970717454, class: legitimate
+
+191 dataset\test\legitimate\5-1510msg1.txt
+Without Smoothing - spam: 0.0804245616675903, legitimate: 0.15635612102420585, class: legitimate
+With Smoothing    - spam: 0.08349516796288964, legitimate: 0.16245614229386074, class: legitimate
+
+192 dataset\test\legitimate\5-1510msg2.txt
+Without Smoothing - spam: 0.014349832062244695, legitimate: 0.09347260367852206, class: legitimate
+With Smoothing    - spam: 0.016725225839937543, legitimate: 0.09760230806109027, class: legitimate
+
+193 dataset\test\legitimate\5-1510msg3.txt
+Without Smoothing - spam: 0.03742667928534435, legitimate: 0.12227176069714836, class: legitimate
+With Smoothing    - spam: 0.03894673233109697, legitimate: 0.12393137179304402, class: legitimate
+
+194 dataset\test\legitimate\5-1511msg1.txt
+Without Smoothing - spam: 0.04587206658988987, legitimate: 0.10333042232154983, class: legitimate
+With Smoothing    - spam: 0.04778925137474843, legitimate: 0.10679335996603372, class: legitimate
+
+195 dataset\test\legitimate\6-1000msg1.txt
+Without Smoothing - spam: 0.06134332824261895, legitimate: 0.040912261030693314, class: spam
+With Smoothing    - spam: 0.062364479936877215, legitimate: 0.04425224363050718, class: spam
+
+196 dataset\test\legitimate\6-1001msg1.txt
+Without Smoothing - spam: 0.12898442154351278, legitimate: 0.15888528733259724, class: legitimate
+With Smoothing    - spam: 0.13443137996093088, legitimate: 0.172708746304794, class: legitimate
+
+197 dataset\test\legitimate\6-1002msg1.txt
+Without Smoothing - spam: 0.16499422160866253, legitimate: 0.18931055634134086, class: legitimate
+With Smoothing    - spam: 0.17422915732890276, legitimate: 0.21351310059204504, class: legitimate
+
+198 dataset\test\legitimate\6-1003msg1.txt
+Without Smoothing - spam: 0.07410999170398568, legitimate: 0.1399169491040091, class: legitimate
+With Smoothing    - spam: 0.07770527406561378, legitimate: 0.14770002130622809, class: legitimate
+
+199 dataset\test\legitimate\6-1004msg1.txt
+Without Smoothing - spam: 0.06939382655002482, legitimate: 0.07257283587741886, class: legitimate
+With Smoothing    - spam: 0.07054222887980133, legitimate: 0.07557794447701996, class: legitimate
+
+200 dataset\test\legitimate\6-1005msg1.txt
+Without Smoothing - spam: 0.10331876116002708, legitimate: 0.17681059592697695, class: legitimate
+With Smoothing    - spam: 0.1082785301091462, legitimate: 0.18805854644451084, class: legitimate
+
+201 dataset\test\legitimate\6-1008msg1.txt
+Without Smoothing - spam: 0.0985161683362627, legitimate: 0.060764972034855154, class: spam
+With Smoothing    - spam: 0.10017674287754523, legitimate: 0.06632431429768941, class: spam
+
+202 dataset\test\legitimate\6-1009msg1.txt
+Without Smoothing - spam: 0.053782138391958105, legitimate: 0.020009623336359077, class: spam
+With Smoothing    - spam: 0.057311915470455145, legitimate: 0.03052040838207624, class: spam
+
+203 dataset\test\legitimate\6-1010msg1.txt
+Without Smoothing - spam: 0.02524475093898159, legitimate: 0.08944899120160833, class: legitimate
+With Smoothing    - spam: 0.02652900352295459, legitimate: 0.0910661258033463, class: legitimate
+
+204 dataset\test\legitimate\6-1011msg1.txt
+Without Smoothing - spam: 0.23636085932258305, legitimate: 0.17576880183107774, class: spam
+With Smoothing    - spam: 0.24242275734136517, legitimate: 0.19387526014450893, class: spam
+
+205 dataset\test\legitimate\6-1013msg1.txt
+Without Smoothing - spam: 0.13542885290314635, legitimate: 0.16250460755609708, class: legitimate
+With Smoothing    - spam: 0.135721253129609, legitimate: 0.1625150087358665, class: legitimate
+
+206 dataset\test\legitimate\6-1017msg1.txt
+Without Smoothing - spam: 0.09759123523973469, legitimate: 0.16574295729425254, class: legitimate
+With Smoothing    - spam: 0.10401327293239111, legitimate: 0.18109713493930074, class: legitimate
+
+207 dataset\test\legitimate\6-1018msg1.txt
+Without Smoothing - spam: 0.14172351757405055, legitimate: 0.19966026826713246, class: legitimate
+With Smoothing    - spam: 0.14709573811973775, legitimate: 0.2124713850951359, class: legitimate
+
+208 dataset\test\legitimate\6-1019msg1.txt
+Without Smoothing - spam: 0.06500373090755643, legitimate: 0.05645327075067284, class: spam
+With Smoothing    - spam: 0.06516336890102688, legitimate: 0.05712711088369502, class: spam
+
+209 dataset\test\legitimate\6-1020msg1.txt
+Without Smoothing - spam: 0.17847588338990164, legitimate: 0.15402379551352377, class: spam
+With Smoothing    - spam: 0.1815975512491284, legitimate: 0.1631462848816172, class: spam
+
+210 dataset\test\legitimate\6-1021msg1.txt
+Without Smoothing - spam: 0.18398348003983106, legitimate: 0.2226220579371833, class: legitimate
+With Smoothing    - spam: 0.19517255020533178, legitimate: 0.25168873511348494, class: legitimate
+
+211 dataset\test\legitimate\6-1022msg1.txt
+Without Smoothing - spam: 0.11119646669479678, legitimate: 0.12300573517017716, class: legitimate
+With Smoothing    - spam: 0.1129634616824557, legitimate: 0.12742197275440043, class: legitimate
+
+212 dataset\test\legitimate\6-1025msg1.txt
+Without Smoothing - spam: 0.06378691599977178, legitimate: 0.05064840438118271, class: spam
+With Smoothing    - spam: 0.06639020922192754, legitimate: 0.05803129610891081, class: spam
+
+213 dataset\test\legitimate\6-1029msg1.txt
+Without Smoothing - spam: 0.19004094669010207, legitimate: 0.1932556299214086, class: legitimate
+With Smoothing    - spam: 0.19377111676133577, legitimate: 0.20321873614617184, class: legitimate
+
+214 dataset\test\legitimate\6-1030msg1.txt
+Without Smoothing - spam: 0.05507665784126593, legitimate: 0.062478863713222865, class: legitimate
+With Smoothing    - spam: 0.05540326789035468, legitimate: 0.06314667813757226, class: legitimate
+
+215 dataset\test\legitimate\6-1030msg2.txt
+Without Smoothing - spam: 0.020626808694045932, legitimate: 0.06730148959571466, class: legitimate
+With Smoothing    - spam: 0.02171662813848372, legitimate: 0.06884427766695574, class: legitimate
+
+216 dataset\test\legitimate\6-1030msg3.txt
+Without Smoothing - spam: 0.01628596463161002, legitimate: 0.039444445749150056, class: legitimate
+With Smoothing    - spam: 0.017513429004129097, legitimate: 0.04203101978809762, class: legitimate
+
+217 dataset\test\legitimate\6-1031msg1.txt
+Without Smoothing - spam: 0.0027091927836955854, legitimate: 0.10759307056880785, class: legitimate
+With Smoothing    - spam: 0.0031981021982903568, legitimate: 0.10589649276682836, class: legitimate
+
+218 dataset\test\legitimate\6-1032msg1.txt
+Without Smoothing - spam: 0.06350323694192943, legitimate: 0.1359946315068008, class: legitimate
+With Smoothing    - spam: 0.06608460488594536, legitimate: 0.14086594782036949, class: legitimate
+
+219 dataset\test\legitimate\6-1033msg1.txt
+Without Smoothing - spam: 0.06173635553457634, legitimate: 0.13396689796939903, class: legitimate
+With Smoothing    - spam: 0.06555568799366522, legitimate: 0.14218549558700116, class: legitimate
+
+220 dataset\test\legitimate\6-1035msg1.txt
+Without Smoothing - spam: 0.1518941045253272, legitimate: 0.1682363026367585, class: legitimate
+With Smoothing    - spam: 0.1581251982931293, legitimate: 0.18456635233647, class: legitimate
+
+221 dataset\test\legitimate\6-1036msg1.txt
+Without Smoothing - spam: 0.12930302098663124, legitimate: 0.2953207118511781, class: legitimate
+With Smoothing    - spam: 0.1332244006341749, legitimate: 0.3011214232027091, class: legitimate
+
+222 dataset\test\legitimate\6-1036msg2.txt
+Without Smoothing - spam: 0.10125612583946822, legitimate: 0.10762606377043145, class: legitimate
+With Smoothing    - spam: 0.10173006743759785, legitimate: 0.10872075263912084, class: legitimate
+
+223 dataset\test\legitimate\6-1036msg3.txt
+Without Smoothing - spam: 0.13958500092358844, legitimate: 0.1349341447544144, class: spam
+With Smoothing    - spam: 0.13989400955881892, legitimate: 0.13590091888996, class: spam
+
+224 dataset\test\legitimate\6-1037msg1.txt
+Without Smoothing - spam: 0.013976971861338588, legitimate: 0.08094373684861209, class: legitimate
+With Smoothing    - spam: 0.014589427734352747, legitimate: 0.08067026844727605, class: legitimate
+
+225 dataset\test\legitimate\6-1037msg2.txt
+Without Smoothing - spam: 0.05575395603718983, legitimate: 0.09428808182757961, class: legitimate
+With Smoothing    - spam: 0.05586014109071785, legitimate: 0.09346663970936821, class: legitimate
+
+226 dataset\test\legitimate\6-1037msg3.txt
+Without Smoothing - spam: 0.04309548473770988, legitimate: 0.09592029364226912, class: legitimate
+With Smoothing    - spam: 0.04336237757839759, legitimate: 0.09512736055252677, class: legitimate
+
+227 dataset\test\legitimate\6-1039msg1.txt
+Without Smoothing - spam: 0.1710799387773206, legitimate: 0.16976777762262973, class: spam
+With Smoothing    - spam: 0.17293790218401445, legitimate: 0.1748257558455894, class: legitimate
+
+228 dataset\test\legitimate\6-1040msg1.txt
+Without Smoothing - spam: 0.066830397076005, legitimate: 0.0938511720905387, class: legitimate
+With Smoothing    - spam: 0.06955974768420131, legitimate: 0.10041831973038443, class: legitimate
+
+229 dataset\test\legitimate\6-1041msg1.txt
+Without Smoothing - spam: 0.2414796339209151, legitimate: 0.16414184572494517, class: spam
+With Smoothing    - spam: 0.24447883828507555, legitimate: 0.17444947793938398, class: spam
+
+230 dataset\test\legitimate\6-1044msg1.txt
+Without Smoothing - spam: 0.09578025880856406, legitimate: 0.2522255057517472, class: legitimate
+With Smoothing    - spam: 0.10194345081550477, legitimate: 0.26435485023377664, class: legitimate
+
+231 dataset\test\legitimate\6-1045msg1.txt
+Without Smoothing - spam: 0.1314684424689272, legitimate: 0.20671881704624628, class: legitimate
+With Smoothing    - spam: 0.13990450636464816, legitimate: 0.22729619202777532, class: legitimate
+
+232 dataset\test\legitimate\6-1047msg1.txt
+Without Smoothing - spam: 0.12187013925700338, legitimate: 0.25175874685836547, class: legitimate
+With Smoothing    - spam: 0.12791146015679214, legitimate: 0.26430174165475084, class: legitimate
+
+233 dataset\test\legitimate\6-1048msg1.txt
+Without Smoothing - spam: 0.15387253777041512, legitimate: 0.17399178647578445, class: legitimate
+With Smoothing    - spam: 0.15948169834660153, legitimate: 0.18853346258132345, class: legitimate
+
+234 dataset\test\legitimate\6-1049msg1.txt
+Without Smoothing - spam: 0.11967203402532013, legitimate: 0.17002407612988335, class: legitimate
+With Smoothing    - spam: 0.12208195409485813, legitimate: 0.17507292212333553, class: legitimate
+
+235 dataset\test\legitimate\6-1050msg1.txt
+Without Smoothing - spam: 0.07191114958182085, legitimate: 0.05702244943845668, class: spam
+With Smoothing    - spam: 0.07214971133686911, legitimate: 0.058094065957255664, class: spam
+
+236 dataset\test\legitimate\6-1050msg2.txt
+Without Smoothing - spam: 0.09639988292253353, legitimate: 0.13074188074108015, class: legitimate
+With Smoothing    - spam: 0.09817278885204535, legitimate: 0.13453950546001042, class: legitimate
+
+237 dataset\test\legitimate\6-1050msg3.txt
+Without Smoothing - spam: 0.030262914845145004, legitimate: 0.064015191521785, class: legitimate
+With Smoothing    - spam: 0.03073221804180489, legitimate: 0.06431061078973394, class: legitimate
+
+238 dataset\test\legitimate\6-1051msg1.txt
+Without Smoothing - spam: 0.05738562896373377, legitimate: 0.05216435576597904, class: spam
+With Smoothing    - spam: 0.057961745567099716, legitimate: 0.05386763689620892, class: spam
+
+239 dataset\test\legitimate\6-1052msg1.txt
+Without Smoothing - spam: 0.048519899042986515, legitimate: 0.07682318859142523, class: legitimate
+With Smoothing    - spam: 0.04948644791819055, legitimate: 0.07863930580465073, class: legitimate
+
+240 dataset\test\legitimate\6-1055msg1.txt
+Without Smoothing - spam: 0.06277342811331857, legitimate: 0.12098966665933951, class: legitimate
+With Smoothing    - spam: 0.06584984215728187, legitimate: 0.1276053798559646, class: legitimate
+
+
+number_of_legs_without_smooting 203 , % 84.58333333333333
+number_of_legs_with_smooting 212 , % 88.33333333333333

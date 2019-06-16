@@ -1,0 +1,204 @@
+Top 200 words of train/SPAM, 
+their number of occurances and 
+document frequencies
+
+  1 mail          # of occurance:1033, Doc Frequency:136
+  2 order         # of occurance: 808, Doc Frequency: 96
+  3 address       # of occurance: 722, Doc Frequency:116
+  4 report        # of occurance: 693, Doc Frequency: 46
+  5 our           # of occurance: 644, Doc Frequency:135
+  6 email         # of occurance: 539, Doc Frequency: 77
+  7 money         # of occurance: 510, Doc Frequency:104
+  8 send          # of occurance: 508, Doc Frequency:113
+  9 list          # of occurance: 489, Doc Frequency:112
+ 10 program       # of occurance: 478, Doc Frequency: 68
+ 11 name          # of occurance: 470, Doc Frequency: 97
+ 12 free          # of occurance: 467, Doc Frequency:129
+ 13 receive       # of occurance: 412, Doc Frequency:103
+ 14 one           # of occurance: 394, Doc Frequency:125
+ 15 business      # of occurance: 394, Doc Frequency: 81
+ 16 work          # of occurance: 369, Doc Frequency: 86
+ 17 information   # of occurance: 325, Doc Frequency:107
+ 18 internet      # of occurance: 324, Doc Frequency: 87
+ 19 over          # of occurance: 317, Doc Frequency:104
+ 20 http          # of occurance: 314, Doc Frequency: 91
+ 21 com           # of occurance: 297, Doc Frequency:103
+ 22 check         # of occurance: 295, Doc Frequency: 98
+ 23 please        # of occurance: 294, Doc Frequency:122
+ 24 day           # of occurance: 286, Doc Frequency:100
+ 25 call          # of occurance: 259, Doc Frequency:109
+ 26 each          # of occurance: 246, Doc Frequency: 68
+ 27 want          # of occurance: 245, Doc Frequency: 99
+ 28 service       # of occurance: 245, Doc Frequency: 78
+ 29 remove        # of occurance: 243, Doc Frequency:102
+ 30 product       # of occurance: 232, Doc Frequency: 67
+ 31 follow        # of occurance: 229, Doc Frequency: 80
+ 32 need          # of occurance: 227, Doc Frequency:104
+ 33 credit        # of occurance: 225, Doc Frequency: 62
+ 34 site          # of occurance: 224, Doc Frequency: 82
+ 35 market        # of occurance: 222, Doc Frequency: 69
+ 36 here          # of occurance: 214, Doc Frequency:105
+ 37 start         # of occurance: 213, Doc Frequency: 74
+ 38 include       # of occurance: 212, Doc Frequency: 93
+ 39 many          # of occurance: 205, Doc Frequency: 86
+ 40 million       # of occurance: 203, Doc Frequency: 60
+ 41 week          # of occurance: 190, Doc Frequency: 68
+ 42 fax           # of occurance: 189, Doc Frequency: 39
+ 43 phone         # of occurance: 187, Doc Frequency: 76
+ 44 even          # of occurance: 187, Doc Frequency: 74
+ 45 offer         # of occurance: 185, Doc Frequency: 92
+ 46 company       # of occurance: 185, Doc Frequency: 77
+ 47 best          # of occurance: 184, Doc Frequency: 92
+ 48 sell          # of occurance: 182, Doc Frequency: 54
+ 49 number        # of occurance: 182, Doc Frequency: 83
+ 50 home          # of occurance: 178, Doc Frequency: 76
+ 51 most          # of occurance: 176, Doc Frequency: 84
+ 52 every         # of occurance: 176, Doc Frequency: 70
+ 53 cost          # of occurance: 176, Doc Frequency: 78
+ 54 pay           # of occurance: 174, Doc Frequency: 72
+ 55 web           # of occurance: 172, Doc Frequency: 63
+ 56 software      # of occurance: 171, Doc Frequency: 44
+ 57 card          # of occurance: 170, Doc Frequency: 58
+ 58 letter        # of occurance: 166, Doc Frequency: 47
+ 59 level         # of occurance: 165, Doc Frequency: 33
+ 60 help          # of occurance: 163, Doc Frequency: 65
+ 61 first         # of occurance: 162, Doc Frequency: 75
+ 62 those         # of occurance: 157, Doc Frequency: 61
+ 63 read          # of occurance: 156, Doc Frequency: 55
+ 64 www           # of occurance: 149, Doc Frequency: 63
+ 65 nbsp          # of occurance: 149, Doc Frequency:  1
+ 66 world         # of occurance: 148, Doc Frequency: 64
+ 67 today         # of occurance: 148, Doc Frequency: 80
+ 68 own           # of occurance: 143, Doc Frequency: 64
+ 69 advertise     # of occurance: 143, Doc Frequency: 51
+ 70 cash          # of occurance: 142, Doc Frequency: 54
+ 71 bulk          # of occurance: 142, Doc Frequency: 45
+ 72 place         # of occurance: 141, Doc Frequency: 65
+ 73 opportunity   # of occurance: 140, Doc Frequency: 50
+ 74 income        # of occurance: 140, Doc Frequency: 47
+ 75 below         # of occurance: 140, Doc Frequency: 69
+ 76 per           # of occurance: 138, Doc Frequency: 64
+ 77 within        # of occurance: 136, Doc Frequency: 65
+ 78 click         # of occurance: 136, Doc Frequency: 61
+ 79 much          # of occurance: 135, Doc Frequency: 68
+ 80 win           # of occurance: 134, Doc Frequency: 57
+ 81 hour          # of occurance: 134, Doc Frequency: 69
+ 82 state         # of occurance: 132, Doc Frequency: 78
+ 83 show          # of occurance: 130, Doc Frequency: 59
+ 84 live          # of occurance: 130, Doc Frequency: 57
+ 85 computer      # of occurance: 130, Doc Frequency: 41
+ 86 easy          # of occurance: 129, Doc Frequency: 65
+ 87 must          # of occurance: 128, Doc Frequency: 53
+ 88 file          # of occurance: 128, Doc Frequency: 40
+ 89 message       # of occurance: 127, Doc Frequency: 70
+ 90 save          # of occurance: 124, Doc Frequency: 57
+ 91 line          # of occurance: 123, Doc Frequency: 77
+ 92 month         # of occurance: 122, Doc Frequency: 61
+ 93 buy           # of occurance: 120, Doc Frequency: 54
+ 94 available     # of occurance: 120, Doc Frequency: 70
+ 95 success       # of occurance: 119, Doc Frequency: 46
+ 96 interest      # of occurance: 119, Doc Frequency: 57
+ 97 copy          # of occurance: 116, Doc Frequency: 38
+ 98 through       # of occurance: 114, Doc Frequency: 63
+ 99 form          # of occurance: 113, Doc Frequency: 47
+100 before        # of occurance: 113, Doc Frequency: 61
+101 add           # of occurance: 113, Doc Frequency: 58
+102 financial     # of occurance: 112, Doc Frequency: 37
+103 down          # of occurance: 112, Doc Frequency: 48
+104 net           # of occurance: 111, Doc Frequency: 42
+105 after         # of occurance: 110, Doc Frequency: 60
+106 back          # of occurance: 108, Doc Frequency: 59
+107 ever          # of occurance: 107, Doc Frequency: 53
+108 dollar        # of occurance: 107, Doc Frequency: 52
+109 right         # of occurance: 106, Doc Frequency: 57
+110 try           # of occurance: 103, Doc Frequency: 46
+111 earn          # of occurance: 103, Doc Frequency: 48
+112 special       # of occurance: 102, Doc Frequency: 55
+113 ship          # of occurance: 102, Doc Frequency: 32
+114 same          # of occurance: 102, Doc Frequency: 51
+115 price         # of occurance: 102, Doc Frequency: 51
+116 plan          # of occurance: 101, Doc Frequency: 35
+117 thousand      # of occurance: 100, Doc Frequency: 55
+118 sure          # of occurance: 100, Doc Frequency: 46
+119 again         # of occurance: 100, Doc Frequency: 62
+120 great         # of occurance:  99, Doc Frequency: 53
+121 capitalfm     # of occurance:  99, Doc Frequency: 10
+122 type          # of occurance:  97, Doc Frequency: 61
+123 four          # of occurance:  94, Doc Frequency: 26
+124 step          # of occurance:  93, Doc Frequency: 39
+125 simply        # of occurance:  93, Doc Frequency: 53
+126 where         # of occurance:  92, Doc Frequency: 57
+127 server        # of occurance:  92, Doc Frequency: 20
+128 off           # of occurance:  91, Doc Frequency: 45
+129 next          # of occurance:  90, Doc Frequency: 47
+130 keep          # of occurance:  90, Doc Frequency: 56
+131 guarantee     # of occurance:  90, Doc Frequency: 49
+132 full          # of occurance:  90, Doc Frequency: 53
+133 member        # of occurance:  89, Doc Frequency: 28
+134 video         # of occurance:  88, Doc Frequency: 25
+135 search        # of occurance:  88, Doc Frequency: 32
+136 purchase      # of occurance:  88, Doc Frequency: 52
+137 etc           # of occurance:  88, Doc Frequency: 44
+138 system        # of occurance:  87, Doc Frequency: 41
+139 package       # of occurance:  87, Doc Frequency: 34
+140 box           # of occurance:  87, Doc Frequency: 34
+141 question      # of occurance:  86, Doc Frequency: 53
+142 total         # of occurance:  85, Doc Frequency: 42
+143 thank         # of occurance:  85, Doc Frequency: 58
+144 never         # of occurance:  85, Doc Frequency: 53
+145 instruction   # of occurance:  85, Doc Frequency: 47
+146 sex           # of occurance:  83, Doc Frequency: 28
+147 return        # of occurance:  83, Doc Frequency: 45
+148 friend        # of occurance:  83, Doc Frequency: 47
+149 adult         # of occurance:  83, Doc Frequency: 34
+150 tell          # of occurance:  82, Doc Frequency: 47
+151 tax           # of occurance:  82, Doc Frequency: 29
+152 participate   # of occurance:  82, Doc Frequency: 19
+153 multi         # of occurance:  82, Doc Frequency: 21
+154 simple        # of occurance:  81, Doc Frequency: 42
+155 little        # of occurance:  81, Doc Frequency: 36
+156 life          # of occurance:  81, Doc Frequency: 47
+157 under         # of occurance:  80, Doc Frequency: 38
+158 rate          # of occurance:  80, Doc Frequency: 45
+159 put           # of occurance:  80, Doc Frequency: 50
+160 amount        # of occurance:  80, Doc Frequency: 53
+161 two           # of occurance:  79, Doc Frequency: 39
+162 result        # of occurance:  79, Doc Frequency: 41
+163 different     # of occurance:  79, Doc Frequency: 44
+164 request       # of occurance:  78, Doc Frequency: 54
+165 bank          # of occurance:  78, Doc Frequency: 39
+166 response      # of occurance:  77, Doc Frequency: 35
+167 method        # of occurance:  77, Doc Frequency: 30
+168 let           # of occurance:  77, Doc Frequency: 44
+169 date          # of occurance:  77, Doc Frequency: 46
+170 why           # of occurance:  76, Doc Frequency: 53
+171 really        # of occurance:  76, Doc Frequency: 43
+172 least         # of occurance:  76, Doc Frequency: 30
+173 important     # of occurance:  76, Doc Frequency: 29
+174 change        # of occurance:  76, Doc Frequency: 39
+175 bonus         # of occurance:  76, Doc Frequency: 28
+176 bill          # of occurance:  76, Doc Frequency: 35
+177 plus          # of occurance:  75, Doc Frequency: 41
+178 personal      # of occurance:  75, Doc Frequency: 49
+179 online        # of occurance:  75, Doc Frequency: 44
+180 manual        # of occurance:  75, Doc Frequency: 17
+181 join          # of occurance:  75, Doc Frequency: 36
+182 course        # of occurance:  75, Doc Frequency: 33
+183 require       # of occurance:  74, Doc Frequency: 47
+184 investment    # of occurance:  74, Doc Frequency: 25
+185 contact       # of occurance:  74, Doc Frequency: 50
+186 base          # of occurance:  74, Doc Frequency: 43
+187 move          # of occurance:  73, Doc Frequency: 27
+188 few           # of occurance:  73, Doc Frequency: 48
+189 customer      # of occurance:  73, Doc Frequency: 38
+190 anywhere      # of occurance:  73, Doc Frequency: 41
+191 thing         # of occurance:  72, Doc Frequency: 38
+192 sale          # of occurance:  72, Doc Frequency: 36
+193 reply         # of occurance:  72, Doc Frequency: 53
+194 part          # of occurance:  72, Doc Frequency: 42
+195 complete      # of occurance:  72, Doc Frequency: 41
+196 anyone        # of occurance:  72, Doc Frequency: 35
+197 visit         # of occurance:  71, Doc Frequency: 52
+198 provide       # of occurance:  71, Doc Frequency: 43
+199 lot           # of occurance:  71, Doc Frequency: 37
+200 once          # of occurance:  70, Doc Frequency: 46

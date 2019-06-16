@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ffac664-703e-4c5f-b168-c7ed99b442f0" name="Default Changelist" comment="" />
+    <list default="true" id="2ffac664-703e-4c5f-b168-c7ed99b442f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spam_filter_mnb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_ex_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kod_depo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/merhaba.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,33 +16,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/merhaba.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="67" lean-forward="true" selection-start-line="62" selection-end-line="67" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_ex_dict.py">
+        <entry file="file://$PROJECT_DIR$/spam_filter_mnb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/folder_server.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            <state relative-caret-position="136">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -52,19 +38,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/_ex_dict.py" />
         <option value="$PROJECT_DIR$/folder_server.py" />
         <option value="$PROJECT_DIR$/merhaba.py" />
-        <option value="$PROJECT_DIR$/_ex_dict.py" />
+        <option value="$PROJECT_DIR$/spam_filter_mnb.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="326" />
-    <option name="y" value="5" />
-    <option name="width" value="1589" />
+    <option name="x" value="446" />
+    <option name="y" value="6" />
+    <option name="width" value="1473" />
     <option name="height" value="1025" />
   </component>
   <component name="ProjectView">
@@ -76,8 +66,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="ir-spam-filter-proje" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ir-spam-filter-proje" type="462c0819:PsiDirectoryNode" />
+              <item name="ir2-spam-filter-multinomial-nb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ir2-spam-filter-multinomial-nb" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -87,7 +77,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -115,7 +107,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python._ex_dict">
+  <component name="RunManager" selected="Python.spam_filter_mnb">
     <configuration name="_ex_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ir-spam-filter-proje" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,6 +130,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="folder_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ir-spam-filter-proje" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\ir2-spam-filter-multinomial-nb\kod_depo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="merhaba" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ir-spam-filter-proje" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,7 +165,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/merhaba.py" />
+      <option name="SCRIPT_NAME" value="D:\ir2-spam-filter-multinomial-nb\spam_filter_mnb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spam_filter_mnb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ir-spam-filter-proje" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spam_filter_mnb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,8 +198,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python._ex_dict" />
+        <item itemvalue="Python.spam_filter_mnb" />
         <item itemvalue="Python.merhaba" />
+        <item itemvalue="Python.folder_server" />
+        <item itemvalue="Python._ex_dict" />
       </list>
     </recent_temporary>
   </component>
@@ -182,21 +220,24 @@
       <workItem from="1558298486736" duration="593000" />
       <workItem from="1558649409423" duration="1914000" />
       <workItem from="1558734830317" duration="5650000" />
+      <workItem from="1559920907437" duration="17420000" />
+      <workItem from="1559996029825" duration="706000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14814000" />
+    <option name="totallyTimeSpent" value="32940000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="261" y="4" width="1271" height="820" extended-state="0" />
+    <frame x="357" y="5" width="1178" height="820" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22588623" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13660714" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29608127" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32946298" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49911818" weight="0.19593614" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -204,7 +245,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50088185" side_tool="true" weight="0.35268506" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -220,35 +261,32 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ir_spam_filter_proje$merhaba.coverage" NAME="merhaba Coverage Results" MODIFIED="1558737334798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ir_spam_filter_proje$_ex_dict.coverage" NAME="_ex_dict Coverage Results" MODIFIED="1558739889798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ir2_spam_filter_multinomial_nb$spam_filter_mnb.coverage" NAME="spam_filter_mnb Coverage Results" MODIFIED="1559996741812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ir2_spam_filter_multinomial_nb$folder_server.coverage" NAME="folder_server Coverage Results" MODIFIED="1559924989168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ir2_spam_filter_multinomial_nb$merhaba.coverage" NAME="merhaba Coverage Results" MODIFIED="1559949282588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dataset/training/spam/spmsga1.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/folder_server.py">
+    <entry file="file://$PROJECT_DIR$/_ex_dict.py" />
+    <entry file="file://$PROJECT_DIR$/kod_depo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        <state relative-caret-position="323">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/merhaba.py">
+    <entry file="file://$PROJECT_DIR$/spam_filter_mnb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="67" lean-forward="true" selection-start-line="62" selection-end-line="67" />
+        <state relative-caret-position="136">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_ex_dict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>

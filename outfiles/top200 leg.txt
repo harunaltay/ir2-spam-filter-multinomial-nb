@@ -1,0 +1,204 @@
+Top 200 words of train/LEGITIMITE, 
+their number of occurances and 
+document frequencies
+
+  1 language      # of occurance: 555, Doc Frequency:136
+  2 university    # of occurance: 288, Doc Frequency: 98
+  3 linguistic    # of occurance: 254, Doc Frequency:100
+  4 one           # of occurance: 225, Doc Frequency:100
+  5 work          # of occurance: 177, Doc Frequency: 74
+  6 english       # of occurance: 168, Doc Frequency: 76
+  7 linguistics   # of occurance: 154, Doc Frequency: 70
+  8 linguist      # of occurance: 148, Doc Frequency: 74
+  9 word          # of occurance: 143, Doc Frequency: 49
+ 10 interest      # of occurance: 123, Doc Frequency: 80
+ 11 department    # of occurance: 117, Doc Frequency: 56
+ 12 information   # of occurance: 108, Doc Frequency: 60
+ 13 edu           # of occurance: 106, Doc Frequency: 62
+ 14 many          # of occurance: 102, Doc Frequency: 59
+ 15 science       # of occurance:  97, Doc Frequency: 30
+ 16 theory        # of occurance:  95, Doc Frequency: 33
+ 17 our           # of occurance:  94, Doc Frequency: 37
+ 18 student       # of occurance:  93, Doc Frequency: 38
+ 19 study         # of occurance:  92, Doc Frequency: 45
+ 20 first         # of occurance:  90, Doc Frequency: 55
+ 21 snow          # of occurance:  89, Doc Frequency:  7
+ 22 program       # of occurance:  89, Doc Frequency: 34
+ 23 grammar       # of occurance:  85, Doc Frequency: 35
+ 24 form          # of occurance:  85, Doc Frequency: 41
+ 25 case          # of occurance:  80, Doc Frequency: 42
+ 26 two           # of occurance:  79, Doc Frequency: 53
+ 27 speak         # of occurance:  78, Doc Frequency: 44
+ 28 example       # of occurance:  78, Doc Frequency: 41
+ 29 list          # of occurance:  77, Doc Frequency: 45
+ 30 issue         # of occurance:  75, Doc Frequency: 42
+ 31 please        # of occurance:  74, Doc Frequency: 57
+ 32 send          # of occurance:  73, Doc Frequency: 51
+ 33 seem          # of occurance:  72, Doc Frequency: 46
+ 34 research      # of occurance:  72, Doc Frequency: 44
+ 35 follow        # of occurance:  72, Doc Frequency: 56
+ 36 where         # of occurance:  71, Doc Frequency: 43
+ 37 write         # of occurance:  70, Doc Frequency: 48
+ 38 school        # of occurance:  70, Doc Frequency: 32
+ 39 question      # of occurance:  70, Doc Frequency: 45
+ 40 include       # of occurance:  70, Doc Frequency: 40
+ 41 paper         # of occurance:  69, Doc Frequency: 29
+ 42 datum         # of occurance:  69, Doc Frequency: 33
+ 43 conference    # of occurance:  68, Doc Frequency: 14
+ 44 term          # of occurance:  67, Doc Frequency: 23
+ 45 mail          # of occurance:  67, Doc Frequency: 40
+ 46 analysis      # of occurance:  67, Doc Frequency: 31
+ 47 chomsky       # of occurance:  66, Doc Frequency: 25
+ 48 book          # of occurance:  66, Doc Frequency: 28
+ 49 apply         # of occurance:  66, Doc Frequency: 38
+ 50 number        # of occurance:  65, Doc Frequency: 44
+ 51 most          # of occurance:  65, Doc Frequency: 42
+ 52 thank         # of occurance:  64, Doc Frequency: 55
+ 53 rule          # of occurance:  64, Doc Frequency: 23
+ 54 both          # of occurance:  64, Doc Frequency: 44
+ 55 teach         # of occurance:  62, Doc Frequency: 30
+ 56 reference     # of occurance:  62, Doc Frequency: 48
+ 57 much          # of occurance:  62, Doc Frequency: 44
+ 58 point         # of occurance:  61, Doc Frequency: 34
+ 59 course        # of occurance:  61, Doc Frequency: 34
+ 60 fax           # of occurance:  59, Doc Frequency: 45
+ 61 even          # of occurance:  59, Doc Frequency: 41
+ 62 speaker       # of occurance:  58, Doc Frequency: 36
+ 63 anyone        # of occurance:  58, Doc Frequency: 51
+ 64 problem       # of occurance:  57, Doc Frequency: 30
+ 65 here          # of occurance:  57, Doc Frequency: 39
+ 66 different     # of occurance:  57, Doc Frequency: 37
+ 67 text          # of occurance:  56, Doc Frequency: 32
+ 68 little        # of occurance:  56, Doc Frequency: 19
+ 69 experience    # of occurance:  56, Doc Frequency: 34
+ 70 etc           # of occurance:  56, Doc Frequency: 42
+ 71 address       # of occurance:  56, Doc Frequency: 43
+ 72 syntax        # of occurance:  55, Doc Frequency: 31
+ 73 harri         # of occurance:  55, Doc Frequency:  8
+ 74 child         # of occurance:  55, Doc Frequency: 17
+ 75 between       # of occurance:  55, Doc Frequency: 43
+ 76 ask           # of occurance:  55, Doc Frequency: 37
+ 77 area          # of occurance:  55, Doc Frequency: 37
+ 78 those         # of occurance:  54, Doc Frequency: 38
+ 79 whether       # of occurance:  53, Doc Frequency: 32
+ 80 query         # of occurance:  53, Doc Frequency: 42
+ 81 publish       # of occurance:  53, Doc Frequency: 33
+ 82 general       # of occurance:  53, Doc Frequency: 42
+ 83 available     # of occurance:  53, Doc Frequency: 31
+ 84 state         # of occurance:  52, Doc Frequency: 26
+ 85 over          # of occurance:  52, Doc Frequency: 33
+ 86 teacher       # of occurance:  50, Doc Frequency: 15
+ 87 since         # of occurance:  50, Doc Frequency: 36
+ 88 response      # of occurance:  50, Doc Frequency: 26
+ 89 hear          # of occurance:  50, Doc Frequency: 31
+ 90 speech        # of occurance:  49, Doc Frequency: 19
+ 91 rather        # of occurance:  49, Doc Frequency: 34
+ 92 level         # of occurance:  49, Doc Frequency: 32
+ 93 accent        # of occurance:  49, Doc Frequency:  6
+ 94 thing         # of occurance:  48, Doc Frequency: 33
+ 95 system        # of occurance:  48, Doc Frequency: 30
+ 96 order         # of occurance:  48, Doc Frequency: 30
+ 97 mean          # of occurance:  48, Doc Frequency: 24
+ 98 field         # of occurance:  48, Doc Frequency: 31
+ 99 structure     # of occurance:  47, Doc Frequency: 24
+100 post          # of occurance:  47, Doc Frequency: 36
+101 papers        # of occurance:  47, Doc Frequency: 18
+102 french        # of occurance:  47, Doc Frequency: 23
+103 translation   # of occurance:  45, Doc Frequency: 17
+104 second        # of occurance:  45, Doc Frequency: 34
+105 receive       # of occurance:  45, Doc Frequency: 36
+106 need          # of occurance:  45, Doc Frequency: 37
+107 name          # of occurance:  45, Doc Frequency: 28
+108 dialect       # of occurance:  45, Doc Frequency: 19
+109 why           # of occurance:  44, Doc Frequency: 31
+110 tell          # of occurance:  44, Doc Frequency: 26
+111 note          # of occurance:  44, Doc Frequency: 34
+112 contact       # of occurance:  44, Doc Frequency: 30
+113 concern       # of occurance:  44, Doc Frequency: 25
+114 citation      # of occurance:  44, Doc Frequency: 20
+115 call          # of occurance:  44, Doc Frequency: 30
+116 provide       # of occurance:  43, Doc Frequency: 34
+117 learn         # of occurance:  43, Doc Frequency: 28
+118 international # of occurance:  43, Doc Frequency: 18
+119 discussion    # of occurance:  43, Doc Frequency: 35
+120 application   # of occurance:  43, Doc Frequency: 21
+121 type          # of occurance:  42, Doc Frequency: 25
+122 same          # of occurance:  42, Doc Frequency: 33
+123 must          # of occurance:  42, Doc Frequency: 34
+124 eskimo        # of occurance:  42, Doc Frequency:  8
+125 base          # of occurance:  42, Doc Frequency: 28
+126 want          # of occurance:  41, Doc Frequency: 31
+127 part          # of occurance:  41, Doc Frequency: 27
+128 literature    # of occurance:  41, Doc Frequency: 25
+129 human         # of occurance:  41, Doc Frequency: 25
+130 still         # of occurance:  40, Doc Frequency: 32
+131 modern        # of occurance:  40, Doc Frequency: 29
+132 mark          # of occurance:  40, Doc Frequency: 25
+133 john          # of occurance:  40, Doc Frequency: 20
+134 world         # of occurance:  39, Doc Frequency: 26
+135 possible      # of occurance:  38, Doc Frequency: 33
+136 mention       # of occurance:  38, Doc Frequency: 26
+137 member        # of occurance:  38, Doc Frequency: 21
+138 academic      # of occurance:  38, Doc Frequency: 17
+139 show          # of occurance:  37, Doc Frequency: 24
+140 position      # of occurance:  37, Doc Frequency: 24
+141 particular    # of occurance:  37, Doc Frequency: 20
+142 kind          # of occurance:  37, Doc Frequency: 26
+143 each          # of occurance:  37, Doc Frequency: 22
+144 another       # of occurance:  37, Doc Frequency: 29
+145 talk          # of occurance:  36, Doc Frequency: 21
+146 spanish       # of occurance:  36, Doc Frequency: 14
+147 less          # of occurance:  36, Doc Frequency: 28
+148 discourse     # of occurance:  36, Doc Frequency: 14
+149 chinese       # of occurance:  36, Doc Frequency:  9
+150 view          # of occurance:  35, Doc Frequency: 24
+151 three         # of occurance:  35, Doc Frequency: 26
+152 theoretical   # of occurance:  35, Doc Frequency: 27
+153 result        # of occurance:  35, Doc Frequency: 22
+154 relate        # of occurance:  35, Doc Frequency: 25
+155 own           # of occurance:  35, Doc Frequency: 22
+156 help          # of occurance:  35, Doc Frequency: 28
+157 become        # of occurance:  35, Doc Frequency: 25
+158 sample        # of occurance:  34, Doc Frequency: 10
+159 however       # of occurance:  34, Doc Frequency: 29
+160 further       # of occurance:  34, Doc Frequency: 28
+161 del           # of occurance:  34, Doc Frequency:  2
+162 class         # of occurance:  34, Doc Frequency: 20
+163 american      # of occurance:  34, Doc Frequency: 30
+164 acquisition   # of occurance:  34, Doc Frequency: 20
+165 understand    # of occurance:  33, Doc Frequency: 20
+166 suggest       # of occurance:  33, Doc Frequency: 26
+167 publication   # of occurance:  33, Doc Frequency: 18
+168 phenomenon    # of occurance:  33, Doc Frequency: 21
+169 far           # of occurance:  33, Doc Frequency: 26
+170 correct       # of occurance:  33, Doc Frequency: 11
+171 approach      # of occurance:  33, Doc Frequency: 21
+172 while         # of occurance:  32, Doc Frequency: 27
+173 though        # of occurance:  32, Doc Frequency: 25
+174 special       # of occurance:  32, Doc Frequency: 19
+175 quite         # of occurance:  32, Doc Frequency: 21
+176 phonology     # of occurance:  32, Doc Frequency: 20
+177 method        # of occurance:  32, Doc Frequency: 12
+178 letter        # of occurance:  32, Doc Frequency: 20
+179 hold          # of occurance:  32, Doc Frequency: 25
+180 fact          # of occurance:  32, Doc Frequency: 26
+181 either        # of occurance:  32, Doc Frequency: 27
+182 college       # of occurance:  32, Doc Frequency: 18
+183 verb          # of occurance:  31, Doc Frequency: 16
+184 sure          # of occurance:  31, Doc Frequency: 23
+185 summary       # of occurance:  31, Doc Frequency: 22
+186 reason        # of occurance:  31, Doc Frequency: 23
+187 principle     # of occurance:  31, Doc Frequency: 17
+188 present       # of occurance:  31, Doc Frequency: 25
+189 job           # of occurance:  31, Doc Frequency: 21
+190 humor         # of occurance:  31, Doc Frequency:  3
+191 email         # of occurance:  31, Doc Frequency: 21
+192 computer      # of occurance:  31, Doc Frequency: 22
+193 cognitive     # of occurance:  31, Doc Frequency: 15
+194 change        # of occurance:  31, Doc Frequency: 17
+195 through       # of occurance:  30, Doc Frequency: 25
+196 read          # of occurance:  30, Doc Frequency: 24
+197 place         # of occurance:  30, Doc Frequency: 21
+198 native        # of occurance:  30, Doc Frequency: 18
+199 long          # of occurance:  30, Doc Frequency: 21
+200 least         # of occurance:  30, Doc Frequency: 25
